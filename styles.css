@@ -1,0 +1,13 @@
+html{
+    background: linear-gradient(#96DA7C, #9198e5);
+    height: 100%;
+    width: 100%;
+}
+
+#header{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    padding-top: 10px;
+    position: block;
+}
